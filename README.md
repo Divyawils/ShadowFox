@@ -67,7 +67,7 @@ conda activate shadowfox_env
 Install required Python libraries:
 
 pip install pandas matplotlib seaborn plotly jupyter
-3️⃣ Running Jupyter Notebooks
+## 3️⃣ Running Jupyter Notebooks
 
 Start Jupyter Notebook:
 
